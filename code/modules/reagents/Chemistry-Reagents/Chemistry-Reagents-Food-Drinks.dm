@@ -1101,6 +1101,53 @@
 	glass_name = "grenadine syrup"
 	glass_desc = "Sweet and tangy, a bar syrup used to add color or flavor to drinks."
 
+/datum/reagent/drink/mangoreinhardt
+	name = "Mango Reinhardt"
+	id = "mangoreinhardt"
+	description = "The slogan reads: Mango Reinhardt, the thinking man's pop."
+	taste_description = "very sweet mango"
+	color = "#FF004F"
+	reagent_state = LIQUID
+	
+	glass_name = "Mango Reinhardt"
+	glass_desc = "A glass of sweet mango reinhardt."
+
+/datum/reagent/drink/alohacoe
+	name = "Aloha Coe"
+	id = "alohacoe"
+	description = "Made from authentic space coconuts grown under authentic space sunshine."
+	taste_description = "refreshingly sweet coconut"
+	color = "#FF004F"
+	reagent_state = LIQUID
+
+	glass_name = "Aloha Coe"
+	glass_desc = "A refreshing glass of Aloha Coe"
+
+/datum/reagent/drink/mingusdew
+	name = "Mingus Dew"
+	id = "mingusdew"
+	description = "The slogan reads: Give me my damn Mingus Dew! Produced by the Bebop Soda Company."
+	taste_description = "lime and lemonade"
+	color = "#FF004F"
+	reagent_state = LIQUID
+
+	glass_name = "Mingus Dew"
+	glass_desc = "A refreshing glass of Mingus Dew"
+
+/datum/reagent/drink/alohacoe
+	name = "Starman Sparkle"
+	id = "starmansparkle"
+	description = "The slogan seems to be dedicated to it's creator. It goes into great lengths advertising it's unique flavour."
+	taste_description = "it tastes out of this world, you can't seem to pinpoint what it is."
+	taste_mult = 5
+	reagent_state = LIQUID
+	color = "#7F00FF"
+
+	glass_name = "Starman Sparkle"
+	glass_desc = "A perplexing glass of Starman Sparkle"
+
+
+
 /datum/reagent/drink/soda/space_cola
 	name = "Space Cola"
 	id = "cola"
